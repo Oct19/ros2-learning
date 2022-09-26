@@ -89,6 +89,13 @@ Turtlesim
         && sudo apt update \
         && sudo apt install gh -y
 
+2. Chinese Pinyin keyboard input
+
+        sudo apt install ibus
+        sudo apt install ibus-pinyin
+
+Restart computer, go to `Input source`, add `Chinese(Pinyin)`
+
 ## Issues
 
 1. command: `ros2 node list` not working
