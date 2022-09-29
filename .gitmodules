@@ -1,0 +1,4 @@
+[submodule "src/blank_repo"]
+	path = src/blank_repo
+	url = https://github.com/oct19/blank_repo.git
+	branch = main
